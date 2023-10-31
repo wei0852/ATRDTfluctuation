@@ -1,4 +1,4 @@
-Computation of RDT fluctuations in AT.
+Computation of longitudinal RDT fluctuations on AT.
 ----------------------------
 
 ```matlab
